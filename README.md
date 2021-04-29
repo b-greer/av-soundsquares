@@ -1,6 +1,6 @@
 # av-soundsquares
-put yourr volume low for your sanity
-
+put your volume low for your sanity
+https://bgreer.co.uk/sound-project
 
 This app expands on techniques I've used in graphics throughout year one and two graphics modules.
 I used pixel binning to reduce the webcam footage into a grid of squares, determined on the GUI, which take 
